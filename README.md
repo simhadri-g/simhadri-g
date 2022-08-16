@@ -6,7 +6,7 @@
 </div>
 
 <p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=simhadri-g&show_icons=true&theme=gotham" alt="simhadri-g" />
+<img src="https://github-readme-stats.vercel.app/api?username=simhadri-g&show_icons=true" alt="simhadri-g" />
 
 
 
