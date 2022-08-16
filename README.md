@@ -1,4 +1,10 @@
 ### Hi there 👋
+![](https://visitor-badge.glitch.me/badge?page_id=simhadri-g)
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=simhadri-g&show_icons=true&theme=gotham" alt="simhadri-g" />
+
+
 
 <!--
 **simhadri-g/simhadri-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
