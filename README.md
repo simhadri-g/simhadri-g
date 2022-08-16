@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=simhadri-g)
 
-<p align="center"> 
+<p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=simhadri-g&show_icons=true&theme=gotham" alt="simhadri-g" />
 
 
