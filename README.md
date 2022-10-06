@@ -1,10 +1,6 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=simhadri-g)
 
-<div align="left">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadri-g&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div>
-
 <p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=simhadri-g&show_icons=true" alt="simhadri-g" />
 
